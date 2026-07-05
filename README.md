@@ -66,6 +66,7 @@ El programa analiza un archivo con formato .faa y genera un reporte con los sigu
 REPORTE DEL ANALISIS COMPLETO DEL ARCHIVO
 =========================================
 
+
 Archivo: archivo.faa
 
 Proteinas encontradas: 124
