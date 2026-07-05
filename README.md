@@ -46,6 +46,9 @@ chmod +x analizador_proteinas.sh
 Ejecutar el script indicando el archivo FASTA:
 /analizador_proteinas.sh secuencias/archivo.faa
 
+-El usuario puede modificar la configuración de variables globales dentro del mismo script para establecer parametros de preferencia como la longitud y la frecuencia del aminoácido
+ de interes
+
 ## Resultados del script
 
 El programa analiza un archivo con formato .faa y genera un reporte con los siguientes datos:
