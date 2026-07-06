@@ -28,16 +28,14 @@ El script realiza las siguientes tareas:
 - Identifica la proteína más corta.
 - Calcula la frecuencia total del aminoácido de interés.
 - Muestra un reporte final en la terminal.
-
  
  ## Estructura del script
 
-│
-├── analizador_proteinas.sh      # Script principal
-├── README.md                    # Documentación
-└── secuencias/                  # Carpeta con los archivos FASTA
-    └── archivo.faa              # Archivo de proteínas a analizar
-
+- Proyecto/
+  - analizador_proteinas.sh
+  - README.md
+  - secuencias/
+    - archivo.faa
 
 ## Ejecución
 
