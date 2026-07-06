@@ -62,9 +62,8 @@ El programa analiza un archivo con formato .faa y genera un reporte con los sigu
 
 ## Ejemplo de salida del script en la terminal
 
-=========================================
-REPORTE DEL ANALISIS COMPLETO DEL ARCHIVO
-=========================================
+
+REPORTE DEL ANALISIS COMPLETO DEL ARCHIVO:
 
 
 Archivo: archivo.faa
