@@ -33,7 +33,7 @@ El script realiza las siguientes tareas:
  ## Estructura del script
 
  Proyecto/
-  analizador_proteinas.sh
+  -analizador_proteinas.sh
    - secuencias
     - archivo.faa
 
