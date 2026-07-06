@@ -32,11 +32,11 @@ El script realiza las siguientes tareas:
  
  ## Estructura del script
 
- Proyecto/
- 
-  -analizador_proteinas.sh
-   - secuencias
-    - archivo.faa
+│
+├── analizador_proteinas.sh      # Script principal
+├── README.md                    # Documentación
+└── secuencias/                  # Carpeta con los archivos FASTA
+    └── archivo.faa              # Archivo de proteínas a analizar
 
 
 ## Ejecución
