@@ -1,11 +1,16 @@
 # Analizador FASTA Proteico - Script 1
 
+Nombre del estudiante: Juan Marcelo Rosado
+
+Curso: Principios de la programación bioinformática
+
 ## Descripción
 
 El Script 1 permite analizar un único archivo de proteínas en formato FASTA (.faa o .fasta).
 
 Durante la ejecución, el programa recorre todas las proteínas presentes en el archivo y genera un reporte con estadísticas relacionadas con la longitud de las secuencias y la
 frecuencia de un aminoácido de interés.
+
 
 ## Aplicaciones
 
@@ -15,6 +20,13 @@ Este script puede utilizarse para:
 - Comparar la longitud de las proteínas de un organismo.
 - Identificar proteínas extremadamente largas o cortas.
 - Calcular la frecuencia de un aminoácido específico dentro del conjunto de proteínas.
+
+## Requisitos previos
+
+- Sistema operativo Linux (google cloud shell). 
+- Bash 
+- Archivo de configuración 
+- Archivo FASTA (.faa o .fasta).
 
 
 ## Funcionalidades
